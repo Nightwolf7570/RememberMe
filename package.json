@@ -1,6 +1,7 @@
 {
   "name": "remember-me",
   "version": "0.1.0",
+  "description": "A Next.js web application for memory support with face recognition",
   "private": true,
   "scripts": {
     "dev": "next dev",

@@ -1,6 +1,6 @@
 # RememberMe
 
-A Next.js web application designed to help with memory support by recognizing people and tracking conversations.
+A Next.js web application for memory support with face recognition.
 
 ## Features
 
